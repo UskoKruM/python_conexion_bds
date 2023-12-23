@@ -12,6 +12,18 @@ Para instalar los paquetes necesarios:
 
 <hr/>
 
+![](./preview1.png)
+<br/>
+![](./preview2.png)
+<br/>
+![](./preview3.png)
+<br/>
+![](./preview4.png)
+<br/>
+![](./preview5.png)
+<br/>
+![](./preview6.png)
+
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://pe.linkedin.com/in/uskokrum2010)
