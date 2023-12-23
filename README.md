@@ -1,11 +1,13 @@
-# Python, conexión con MySQL, SQLite3, SQL Server, PostgreSQL y Oracle
+# Python, conexión con MySQL, SQLite3, SQL Server, PostgreSQL, Oracle y MongoDB
 
-Tutorial para conexión con Python hacia los sistemas gestores MySQL, Oracle, SQL Server, PostgreSQL y SQLite3.
+Tutorial para conexión con Python hacia los sistemas gestores MySQL, Oracle, SQL Server, PostgreSQL, SQLite3 y MongoDB.
 
 <hr/>
 
-Para instalar los paquetes necesarios:
+Primero, crear un entorno virtual:
+### `python -m virtualenv venv`
 
+Para instalar los paquetes necesarios:
 ### `pip install -r requirements.txt`
 
 <hr/>
@@ -15,6 +17,12 @@ Para instalar los paquetes necesarios:
 ![](./preview2.png)
 <br/>
 ![](./preview3.png)
+<br/>
+![](./preview4.png)
+<br/>
+![](./preview5.png)
+<br/>
+![](./preview6.png)
 
 # 🌍 Por si deseas contactarme 👨‍💻 :
 
